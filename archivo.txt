@@ -1,5 +1,2 @@
-+
-++
-123
-45.67
-89
+square = lambda x: x ** 2
+print(square(3))
